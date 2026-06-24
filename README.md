@@ -8,8 +8,8 @@
 
 ## 💡 Engineer by Craft | 🤖 AI/ML Builder
 
-🎓 **Incoming MSc AI & Engineering Systems @ TU/e** (2025–2027)  
-💼 **Programmer Analyst / SDET @ Cognizant** — 2.5 yrs in automation, APIs & CI/CD  
+🎓 **Incoming MSc AI & Engineering Systems @ TU/e** (2026–2028)  
+💼 **Programmer Analyst / SDET @ Cognizant** — 2.9 yrs in automation, APIs & CI/CD  
 🌍 Transitioning into **DS / ML / AI** roles in the 🇳🇱 Netherlands  
 🔭 Currently building ML models for **enterprise sales & offer prediction** (AWS)  
 🌱 Exploring: **Deep Learning · MLOps · NLP**  

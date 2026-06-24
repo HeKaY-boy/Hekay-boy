@@ -2,7 +2,7 @@
 
 <br>
 
-<img align="right" alt="Coding" width="550" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"/>
 
 
 # Hey there, I'm Himanshu 👋

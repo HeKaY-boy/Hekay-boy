@@ -58,7 +58,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HeKaY-boy&theme=radical&hide_border=true" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HeKaY-boy&theme=radical&hide_border=true" width="70%" />
 </p>
 
 ---
